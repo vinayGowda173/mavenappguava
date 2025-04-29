@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         // Define the path to the JAR file
-        JAR_PATH = 'target/my-maven-app3-1.0-SNAPSHOT.jar'
+        JAR_PATH = 'target/MyMavenGuavaApp-1.0-SNAPSHOT.jar'
     }
 
     stages {
